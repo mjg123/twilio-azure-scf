@@ -19,7 +19,7 @@
 		<spring.boot.wrapper.version>1.0.26.RELEASE</spring.boot.wrapper.version>
 
 		<azure.functions.java.library.version>1.4.0</azure.functions.java.library.version>
-		<azure.functions.maven.plugin.version>1.9.1</azure.functions.maven.plugin.version>
+		<azure.functions.maven.plugin.version>1.9.2</azure.functions.maven.plugin.version>
 		<stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
 
 		<!-- customize these three properties depending to control the Azure deployment -->
